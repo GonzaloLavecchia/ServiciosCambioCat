@@ -4,7 +4,7 @@ node{
     }
     stage('Test'){
         echo 'Testing...'
-        dir('ServiciosCambioCat'){
+        dir('Servicios'){
             bat 'mvn clean test'
         }
     }
