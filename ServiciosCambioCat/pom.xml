@@ -28,4 +28,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+        <build>
+          <testSourceDirectory> ServiciosCambioCat/ </testSourceDirectory>
+         </build>
 </project>
