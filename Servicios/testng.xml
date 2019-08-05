@@ -3,9 +3,9 @@
 <suite name="Main Test Suite" verbose="2">
     <test name="TestNG Test Group">
         <classes>
-            <class name="Datos"/>
-            <class name="Categorias"/>
-            <class name="CambioCategoria"/>
+            <class name="test/java/Datos"/>
+            <class name="test/java/Categorias"/>
+            <class name="test/java/CambioCategoria"/>
         </classes>
     </test>
 </suite>
